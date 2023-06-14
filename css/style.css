@@ -1,0 +1,37 @@
+body {
+  margin: 20%;
+  background-color: rgb(71, 71, 71);
+  
+}
+
+body #main-div {
+  font: Arial;
+  font-size: 12px;
+  border-radius: 10px 10px 0px 0px;
+  padding: 15px;
+  width: 200px;
+  margin: auto;
+  text-align: center;
+  background-color: rgb(228, 228, 228);
+}
+
+body #main-div p {
+  font: Arial;
+  font-size: 20px;
+  color: rgb(255, 0, 0);
+}
+
+body #second-div {
+  display: flex;
+  justify-content: center;
+}
+
+body #second-div #closeBtn {
+  font: Arial;
+  font-size: 12px;
+  border-radius: 0px 0px 10px 10px;
+  padding: 15px;
+  width: 231px;
+  text-align: center;
+  background-color: rgb(224, 71, 71);
+}
