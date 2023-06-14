@@ -1,4 +1,5 @@
 // Essa função serve para pegar o endereço de IP local da máquina
+// Desenvolvida por Marcelo dos Santos em maio de 2023
 
 function getLocalIp(callback) {
   let externalService = new XMLHttpRequest();

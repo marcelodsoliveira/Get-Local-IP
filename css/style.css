@@ -35,3 +35,14 @@ body #second-div #closeBtn {
   text-align: center;
   background-color: rgb(224, 71, 71);
 }
+
+footer #copyright-area {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  
+
+}
+
